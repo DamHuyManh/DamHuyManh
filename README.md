@@ -101,34 +101,6 @@ I specialize in **automation testing**, **mobile automation**, and **backend dev
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
-
-<h2 align="center">Achievements</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DamHuyManh&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" />
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════ SNAKE ═══════════════════ -->
-
-<h2 align="center">Contribution Snake</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DamHuyManh/DamHuyManh/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DamHuyManh/DamHuyManh/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/DamHuyManh/DamHuyManh/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 
 <h2 align="center">Let's Connect</h2>
