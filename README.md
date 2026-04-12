@@ -3,14 +3,13 @@
 <div align="center">
 
 <a href="https://github.com/DamHuyManh">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=C792EA&center=true&vCenter=true&repeat=true&random=false&width=700&height=45&lines=%E2%9A%A1+Turning+repetitive+tasks+into+one-click+solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=C792EA&center=true&vCenter=true&repeat=true&random=false&width=700&height=45&lines=Turning+repetitive+tasks+into+one-click+solutions" />
 </a>
 
 <br>
 
 <a href="https://github.com/DamHuyManh"><img src="https://img.shields.io/github/followers/DamHuyManh?style=for-the-badge&logo=github&logoColor=white&color=6C3FB5&labelColor=0D1117&label=FOLLOWERS" /></a>
 <img src="https://komarev.com/ghpvc/?username=DamHuyManh&color=6C3FB5&style=for-the-badge&label=VISITORS" />
-<a href="https://github.com/DamHuyManh?tab=stars"><img src="https://img.shields.io/github/stars/DamHuyManh?style=for-the-badge&logo=github&logoColor=white&color=6C3FB5&labelColor=0D1117&label=STARS" /></a>
 
 </div>
 
@@ -28,21 +27,16 @@
 
 <br>
 
-&#128075; Hi! I'm **Dam Huy Manh**
+Hi! I'm **Dam Huy Manh**, a student at **HUFLIT** (Ho Chi Minh City University of Foreign Languages - Information Technology).
 
-&#127891; &nbsp;Student at **HUFLIT** — University of Foreign Languages & IT
+I specialize in **automation testing**, **mobile automation**, and **backend development**. I build tools that turn repetitive tasks into one-click solutions.
 
-&#127759; &nbsp;Based in **Ho Chi Minh City, Vietnam**
-
-&#129302; &nbsp;Specialized in **Automation Testing & QA**
-
-&#128241; &nbsp;Working with **Selenium, Appium, ATX, ADB**
-
-&#128376; &nbsp;Building **Web Scrapers** & **Automation Frameworks**
-
-&#9881; &nbsp;Exploring **Backend APIs** with C# and Java
-
-&#128293; &nbsp;*"Ngu nhieu code it, nhung code la chat!"*
+- Based in **Ho Chi Minh City, Vietnam**
+- Studying at **HUFLIT**
+- Working with **Selenium, Appium, ATX, ADB**
+- Building **web scrapers** and **automation frameworks**
+- Exploring **backend APIs** with C# and Java
+- *"Ngu nhieu code it, nhung code la chat!"*
 
 </td>
 <td width="50%" align="center" valign="middle">
@@ -61,50 +55,12 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-&#128187; <b>Languages</b>
-<br><br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,java&theme=dark" /></a>
-<br><br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,py&theme=dark" /></a>
-
-</td>
-<td align="center" width="25%">
-
-&#129302; <b>Automation</b>
-<br><br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=selenium&theme=dark" /></a>
-<br><br>
-<img src="https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white" />
-<img src="https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/ATX-FF6F00?style=flat-square&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Requests-2CA5E0?style=flat-square&logo=python&logoColor=white" />
-
-</td>
-<td align="center" width="25%">
-
-&#128451; <b>Databases</b>
-<br><br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /></a>
-<br><br>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-
-</td>
-<td align="center" width="25%">
-
-&#128295; <b>Tools</b>
-<br><br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github&theme=dark" /></a>
-<br><br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,vscode&theme=dark" /></a>
-
-</td>
-</tr>
-</table>
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,java,php,py&theme=dark" /></a> |
+| **Automation** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=selenium&theme=dark" /></a> <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" height="28"> <img src="https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="28"> <img src="https://img.shields.io/badge/ATX-FF6F00?style=for-the-badge&logo=android&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white" height="28"> |
+| **Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /></a> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28"> |
+| **Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" /></a> |
 
 </div>
 
@@ -122,17 +78,24 @@
 
 <br>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DamHuyManh&show_icons=true&theme=aura_dark&hide_border=true&bg_color=0D1117&title_color=C792EA&icon_color=C792EA&text_color=EEFFFF&ring_color=C792EA&rank_icon=github" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=DamHuyManh&theme=aura_dark&hide_border=true&background=0D1117&ring=C792EA&fire=FF9E64&currStreakLabel=C792EA&sideLabels=EEFFFF&dates=5A6175&stroke=C792EA" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DamHuyManh&theme=aura_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DamHuyManh&theme=aura_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DamHuyManh&theme=aura_dark" width="32%" />
+</div>
 
 <br>
 
-<p align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamHuyManh&layout=donut&theme=aura_dark&hide_border=true&bg_color=0D1117&title_color=C792EA&text_color=EEFFFF" />
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=DamHuyManh&bg_color=0D1117&color=C792EA&line=C792EA&point=FF9E64&area=true&area_color=C792EA&hide_border=true&custom_title=Contribution%20Graph" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DamHuyManh&theme=aura_dark&utcOffset=7" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=DamHuyManh&theme=aura_dark&hide_border=true&background=0D1117&ring=C792EA&fire=FF9E64&currStreakLabel=C792EA&sideLabels=EEFFFF&dates=5A6175&stroke=C792EA" width="49%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DamHuyManh&bg_color=0D1117&color=C792EA&line=C792EA&point=FF9E64&area=true&area_color=C792EA&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+</div>
 
 <br>
 
@@ -143,7 +106,7 @@
 <h2 align="center">Achievements</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DamHuyManh&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DamHuyManh&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" />
 </div>
 
 <br>
@@ -170,27 +133,23 @@
 
 <h2 align="center">Let's Connect</h2>
 
+<p align="center">
+  <a href="https://github.com/DamHuyManh" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/md.fpoi" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="36" height="36" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@ngu.nhieu.code.it" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/tiktok.svg" width="36" height="36" /></a>
+</p>
+
 <div align="center">
 
-<a href="https://github.com/DamHuyManh" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=0D1117" height="35" />
-</a>
-&nbsp;
-<a href="https://www.facebook.com/md.fpoi" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" />
-</a>
-&nbsp;
-<a href="https://www.tiktok.com/@ngu.nhieu.code.it" target="_blank">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="35" />
-</a>
-
-<br><br>
+<br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="500" />
 
 <br><br>
 
-**Thanks for visiting my profile!** &#10084;
+**Thanks for visiting!**
 
 </div>
 
