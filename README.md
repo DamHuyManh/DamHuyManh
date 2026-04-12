@@ -1,14 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20&height=300&section=header&text=DAM%20HUY%20MANH&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Automation%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20QA%20Tester&descSize=18&descAlignY=58&descAlign=50&stroke=A78BFA&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20&height=300&section=header&text=DAM%20HUY%20MANH&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Automation%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20QA%20Tester&descSize=18&descAlignY=55&descAlign=50&stroke=A78BFA&strokeWidth=2"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%F0%9F%94%A5+Turning+repetitive+tasks+into+one-click+solutions;%F0%9F%9A%80+Selenium+%7C+Appium+%7C+ADB+%7C+ATX+%7C+Requests;%F0%9F%92%BB+C%23+%7C+Java+%7C+PHP+%7C+Python)](https://git.io/typing-svg)
+<a href="https://github.com/DamHuyManh">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=C792EA&center=true&vCenter=true&repeat=true&random=false&width=700&height=45&lines=%E2%9A%A1+Turning+repetitive+tasks+into+one-click+solutions" />
+</a>
 
 <br>
 
 <a href="https://github.com/DamHuyManh"><img src="https://img.shields.io/github/followers/DamHuyManh?style=for-the-badge&logo=github&logoColor=white&color=6C3FB5&labelColor=0D1117&label=FOLLOWERS" /></a>
 <img src="https://komarev.com/ghpvc/?username=DamHuyManh&color=6C3FB5&style=for-the-badge&label=VISITORS" />
-<a href="https://github.com/DamHuyManh?tab=repositories"><img src="https://img.shields.io/badge/REPOS-Check%20Them%20Out-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/DamHuyManh?tab=stars"><img src="https://img.shields.io/github/stars/DamHuyManh?style=for-the-badge&logo=github&logoColor=white&color=6C3FB5&labelColor=0D1117&label=STARS" /></a>
 
 </div>
 
@@ -18,42 +20,54 @@
 
 <!-- ═══════════════════ ABOUT ═══════════════════ -->
 
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
-  &nbsp;About Me
-</h2>
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+    &nbsp;About Me
+  </h2>
+</div>
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```yaml
-name: Dam Huy Manh
-located_in: Ho Chi Minh City, Vietnam
-education: HUFLIT (University of Foreign Languages - IT)
+<br>
 
-current_focus:
-  - Automation Testing & QA
-  - Mobile Automation (Appium, ATX, ADB)
-  - Web Scraping & Data Collection
-  - Backend API Development
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25" /> Hi! I'm **Dam Huy Manh**
 
-languages: ["C#", "Java", "PHP", "Python"]
-databases: ["SQL Server", "MySQL", "MongoDB"]
-tools: ["Selenium", "Appium", "ATX", "ADB", "Requests"]
-design: ["Figma"]
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20" /> &nbsp;Student at **HUFLIT** — University of Foreign Languages & IT
 
-fun_fact: "Ngu nhieu code it, nhung code la chat!"
-```
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="20" /> &nbsp;Based in **Ho Chi Minh City, Vietnam**
 
-<br clear="both">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20" /> &nbsp;Specialized in **Automation Testing & QA**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="20" /> &nbsp;Working with **Selenium, Appium, ATX, ADB**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spider%20Web.png" width="20" /> &nbsp;Building **Web Scrapers** & **Automation Frameworks**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" /> &nbsp;Exploring **Backend APIs** with C# and Java
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="20" /> &nbsp;*"Ngu nhieu code it, nhung code la chat!"*
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="95%"/>
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
-  &nbsp;Tech Arsenal
-</h2>
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
+    &nbsp;Tech Arsenal
+  </h2>
+</div>
 
 <div align="center">
 
@@ -61,41 +75,49 @@ fun_fact: "Ngu nhieu code it, nhung code la chat!"
 <tr>
 <td align="center" width="25%">
 
-<h3>Languages</h3>
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,java&theme=dark" /></a>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" />
 <br>
+<b>Languages</b>
+<br><br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,java&theme=dark" /></a>
+<br><br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,py&theme=dark" /></a>
 
 </td>
 <td align="center" width="25%">
 
-<h3>Automation</h3>
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="30" />
+<br>
+<b>Automation</b>
+<br><br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=selenium&theme=dark" /></a>
 <br><br>
-![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white)
-![ADB](https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=white)
+<img src="https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white" />
+<img src="https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=white" />
 <br>
-![ATX](https://img.shields.io/badge/ATX-FF6F00?style=flat-square&logo=android&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=flat-square&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/ATX-FF6F00?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Requests-2CA5E0?style=flat-square&logo=python&logoColor=white" />
 
 </td>
 <td align="center" width="25%">
 
-<h3>Databases</h3>
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="30" />
+<br>
+<b>Databases</b>
+<br><br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /></a>
 <br><br>
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 
 </td>
 <td align="center" width="25%">
 
-<h3>Tools</h3>
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github&theme=dark" /></a>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" />
 <br>
+<b>Tools</b>
+<br><br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github&theme=dark" /></a>
+<br><br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,vscode&theme=dark" /></a>
 
 </td>
@@ -104,14 +126,18 @@ fun_fact: "Ngu nhieu code it, nhung code la chat!"
 
 </div>
 
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
-<h2>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28">
-  &nbsp;GitHub Analytics
-</h2>
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28">
+    &nbsp;GitHub Analytics
+  </h2>
+</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DamHuyManh&theme=aura_dark" width="100%" />
@@ -119,17 +145,17 @@ fun_fact: "Ngu nhieu code it, nhung code la chat!"
 
 <br>
 
-<div align="center">
+<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DamHuyManh&show_icons=true&theme=aura_dark&hide_border=true&bg_color=0D1117&title_color=C792EA&icon_color=C792EA&text_color=EEFFFF&ring_color=C792EA&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DamHuyManh&theme=aura_dark&hide_border=true&background=0D1117&ring=C792EA&fire=FF9E64&currStreakLabel=C792EA&sideLabels=EEFFFF&dates=5A6175&stroke=C792EA" />
-</div>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=DamHuyManh&theme=aura_dark&hide_border=true&background=0D1117&ring=C792EA&fire=FF9E64&currStreakLabel=C792EA&sideLabels=EEFFFF&dates=5A6175&stroke=C792EA" />
+</p>
 
 <br>
 
-<div align="center">
+<p align="center">
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamHuyManh&layout=donut&theme=aura_dark&hide_border=true&bg_color=0D1117&title_color=C792EA&text_color=EEFFFF" />
   <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=DamHuyManh&bg_color=0D1117&color=C792EA&line=C792EA&point=FF9E64&area=true&area_color=C792EA&hide_border=true&custom_title=Contribution%20Graph" />
-</div>
+</p>
 
 <br>
 
@@ -137,10 +163,12 @@ fun_fact: "Ngu nhieu code it, nhung code la chat!"
 
 <!-- ═══════════════════ TROPHIES ═══════════════════ -->
 
-<h2>
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/200.gif" width="28">
-  &nbsp;Achievements
-</h2>
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/200.gif" width="28">
+    &nbsp;Achievements
+  </h2>
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DamHuyManh&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" />
@@ -152,10 +180,12 @@ fun_fact: "Ngu nhieu code it, nhung code la chat!"
 
 <!-- ═══════════════════ SNAKE ═══════════════════ -->
 
-<h2>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="28">
-  &nbsp;Contribution Snake
-</h2>
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28">
+    &nbsp;Contribution Snake
+  </h2>
+</div>
 
 <div align="center">
   <picture>
@@ -169,24 +199,14 @@ fun_fact: "Ngu nhieu code it, nhung code la chat!"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════ QUOTE ═══════════════════ -->
-
-<div align="center">
-
-### "First, solve the problem. Then, write the code." — John Johnson
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 
-<h2>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">
-  &nbsp;Let's Connect
-</h2>
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">
+    &nbsp;Let's Connect
+  </h2>
+</div>
 
 <div align="center">
 
@@ -204,7 +224,13 @@ fun_fact: "Ngu nhieu code it, nhung code la chat!"
 
 <br><br>
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%23C792EA&aColor=%23FF9E64" alt="Jokes Card" width="500" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="500" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" width="40" />
+
+**Thanks for visiting my profile!**
 
 </div>
 
